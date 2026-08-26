@@ -29,11 +29,17 @@ Struktur File
 
 DailyBoard/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── api.js
+
 ├── catatan.js
+
 ├── storage.js
+
 └── tugas.js
 
 Deployment
